@@ -1,13 +1,13 @@
 <div align="center">
 
-## Restaurant Project
+## `Restaurant Project`
 
 </div>
 
 ```Node
- 
+I've crafted this restaurant project utilizing the foundational principles of HTML and CSS.
+Below is the provided source code, tailored to facilitate and enrich your learning journey.
 ```
-
 
 
 
